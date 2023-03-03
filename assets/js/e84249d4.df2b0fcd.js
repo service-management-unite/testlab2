@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkswat_hub=self.webpackChunkswat_hub||[]).push([[8336],{65355:a=>{a.exports=JSON.parse('{"label":"openshift","permalink":"/testlab2/blog/tags/openshift","allTagsPath":"/testlab2/blog/tags","count":1}')}}]);
