@@ -18,7 +18,7 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             to="/labs/general"
           >
-            View the latest AIOps TechJam Lab 🧑‍🔬
+            View the latest ZAIOps Lab 🧑‍🔬
           </Link>
         </div>
       </div>
@@ -28,7 +28,7 @@ function HomepageHeader() {
 
 export default function Home(): JSX.Element {
   return (
-    <Layout description="IBM ZAIOps - TechJams & Guides">
+    <Layout description="IBM ZAIOps - Lab & Resources">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

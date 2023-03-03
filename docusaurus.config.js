@@ -41,13 +41,13 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/IBM/testlab2/tree/main",
+          editUrl: "https://github.com/service-management-unite/testlab2/tree/main",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/IBM/testlab2/tree/main",
+          editUrl: "https://github.com/service-management-unite/testlab2/tree/main",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -91,7 +91,7 @@ const config = {
             position: "left",
             label: "Labs",
           },
-          {to: "/blog", label: "Guides", position: "left"},
+          {to: "/blog", label: "Resources", position: "left"},
           // TODO: Automations coming soon
           // {
           //   to: "/automations",
@@ -99,7 +99,7 @@ const config = {
           //   position: "left",
           // },
           {
-            href: "https://github.com/IBM/testlab2",
+            href: "https://github.com/service-management-unite/testlab2",
             label: "GitHub",
             position: "right",
           },

@@ -25,7 +25,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require("@site/static/img/undraw_guides.svg").default,
     description: (
       <>
-        General use <Link to="/blog/">Resources</Link> shared by the AIOps team.
+        General use <Link to="/blog/">Resources</Link> shared by the ZAIOps team.
       </>
     ),
   },
