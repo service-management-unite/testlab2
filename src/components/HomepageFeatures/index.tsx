@@ -11,11 +11,11 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: "Hands-on lab",
+    title: "Hands-on labs",
     Svg: require("@site/static/img/undraw_techjam.svg").default,
     description: (
       <>
-        Check out the latest <Link to="/labs/general">hands-on lab</Link> for 
+        Check out the latest <Link to="/labs/general">hands-on labs</Link> for 
 		Z Operational Log and Data Analytics.
       </>
     ),

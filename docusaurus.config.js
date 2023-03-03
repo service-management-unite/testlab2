@@ -6,8 +6,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula")
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "IBM ZAIOps Lab",
-  tagline: "ZAIOps Lab & Resources",
+  title: "IBM ZAIOps Labs",
+  tagline: "ZAIOps Labs & Resources",
   url: "https://github.com/",
   baseUrl: "/testlab2/",
   onBrokenLinks: "throw",
