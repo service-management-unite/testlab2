@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkswat_hub=self.webpackChunkswat_hub||[]).push([[7215],{93297:s=>{s.exports=JSON.parse('{"label":"course","permalink":"/testlab2/blog/tags/course","allTagsPath":"/testlab2/blog/tags","count":1}')}}]);
