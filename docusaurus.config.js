@@ -17,7 +17,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "ibm", // Usually your GitHub org/user name.
-  projectName: "waiops-tech-jam", // Usually your repo name.
+  projectName: "testlab2", // Usually your repo name.
   deploymentBranch: "gh-pages",
   // Required for search to function correctly
   trailingSlash: true,
@@ -99,7 +99,7 @@ const config = {
           //   position: "left",
           // },
           {
-            href: "https://github.com/IBM/waiops-tech-jam",
+            href: "https://github.com/IBM/testlab2",
             label: "GitHub",
             position: "right",
           },
@@ -116,21 +116,9 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "CP4WAIOps",
-                href: "https://www.ibm.com/docs/en/cloud-paks/cloud-pak-watson-aiops",
-              },
-              {
-                label: "NOI",
-                href: "https://www.ibm.com/docs/en/noi/",
-              },
-              {
-                label: "Instana",
-                href: "https://www.ibm.com/docs/en/obi/current",
-              },
-              {
-                label: "Turbonomic",
-                href: "https://docs.turbonomic.com/",
-              },
+                label: "ZLDA",
+                href: "https://www.ibm.com/docs/en/z-logdata-analytics/5.1.0",
+              },           
             ],
           },
           {
@@ -151,7 +139,7 @@ const config = {
               },
               {
                 label: "GitHub",
-                href: "https://github.com/IBM/waiops-tech-jam",
+                href: "https://github.com/IBM/testlab2",
               },
             ],
           },
