@@ -1,1 +1,1 @@
-"use strict";(self.webpackChunkswat_hub=self.webpackChunkswat_hub||[]).push([[8336],{65355:a=>{a.exports=JSON.parse('{"label":"openshift","permalink":"/waiops-tech-jam/blog/tags/openshift","allTagsPath":"/waiops-tech-jam/blog/tags","count":1}')}}]);
+"use strict";(self.webpackChunkswat_hub=self.webpackChunkswat_hub||[]).push([[8336],{65355:a=>{a.exports=JSON.parse('{"label":"openshift","permalink":"/testlab2/blog/tags/openshift","allTagsPath":"/testlab2/blog/tags","count":1}')}}]);
