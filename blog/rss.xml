@@ -4,7 +4,7 @@
         <title>IBM ZAIOps Lab Blog</title>
         <link>https://github.com/testlab2/blog</link>
         <description>IBM ZAIOps Lab Blog</description>
-        <lastBuildDate>Fri, 03 Mar 2023 07:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 07:29:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Useful resources]]></title>
             <link>https://github.com/testlab2/blog/Useful resources</link>
             <guid>Useful resources</guid>
-            <pubDate>Fri, 03 Mar 2023 07:12:31 GMT</pubDate>
+            <pubDate>Fri, 03 Mar 2023 07:29:07 GMT</pubDate>
             <description><![CDATA[This article shows digital resources that you can use.]]></description>
             <content:encoded><![CDATA[<p>The following digital resources are available:</p><ul><li><p><a href="https://www.ibm.com/docs/en/z-logdata-analytics/5.1.0" target="_blank" rel="noopener noreferrer">IBM documentation</a></p></li><li><p><a href="https://www.ibm.com/products/z-log-and-data-analytics" target="_blank" rel="noopener noreferrer">Product page</a></p></li><li><p><a href="https://learn.ibm.com/course/view.php?id=12017" target="_blank" rel="noopener noreferrer">Digital course</a></p></li><li><p><a href="https://www.ibm.com/links?url=https%3A%2F%2Fzaiops.github.io%2Fzlda%2F" target="_blank" rel="noopener noreferrer">Video library</a></p></li></ul>]]></content:encoded>
             <category>ZAIOps</category>
