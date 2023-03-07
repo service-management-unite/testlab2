@@ -2,7 +2,7 @@
 title: Useful resources
 description:
   This article shows digital resources that you can use.
-tags: [ZAIOps, ZLDA, video, course, docs]
+tags: [zAIOps, ZLDA, video, course, docs]
 slug: Useful resources
 ---
 

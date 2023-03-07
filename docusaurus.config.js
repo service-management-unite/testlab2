@@ -6,8 +6,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula")
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "IBM ZAIOps Labs",
-  tagline: "ZAIOps Labs & Resources",
+  title: "IBM zAIOps Labs",
+  tagline: "zAIOps Labs & Resources",
   url: "https://github.com/",
   baseUrl: "/testlab2/",
   onBrokenLinks: "throw",
@@ -78,7 +78,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "IBM ZAIOps",
+        title: "IBM zAIOps",
         logo: {
           alt: "Logo",
           src: "/img/ibm-watson-logo.png",
@@ -116,7 +116,7 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "ZLDA",
+                label: "Z Operational Log and Data Analytics manual",
                 href: "https://www.ibm.com/docs/en/z-logdata-analytics/5.1.0",
               },           
             ],
@@ -125,18 +125,14 @@ const config = {
             title: "Community",
             items: [
               {
-                label: "IBM",
-                href: "https://www.ibm.com/au-en",
+                label: "AIOps on IBM Z",
+                href: "https://community.ibm.com/community/user/ibmz-and-linuxone/groups/topic-home?CommunityKey=23ea7a1f-d5b7-4b57-bd89-2ea575cc559c",
               },
             ],
           },
           {
             title: "More",
             items: [
-              {
-                label: "Blog",
-                to: "/blog",
-              },
               {
                 label: "GitHub",
                 href: "https://github.com/IBM/testlab2",
